@@ -1,6 +1,6 @@
 # Projeto - Dados Aleatórios
 <h2> 💡 O que é isso ?</h2>
-  <h4>"Projeto Dados Aleatórios desenvolvido em Flutter/Dart para fins de estudo."</h4>
+  <h3>"Projeto Dados Aleatórios desenvolvido em Flutter/Dart para fins de estudo."</h3>
 <div>
   <h2> 🔍 Dá uma olhada:</h2> 
   <div align='center'>
