@@ -3,9 +3,9 @@
   <h3>"Projeto Dados Aleatórios desenvolvido em Flutter/Dart para fins de estudo."</h3>
 <div>
   <h2> 🔍 Dá uma olhada:</h2> 
-  <div align='center'>
+  <h5 align='center'>
     <a href="https://youtu.be/3RrB6M_JW2c">CLIQUE AQUI!</a>
-  </div>
+  </h5>
 
 </div>
 
